@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeekMeal.Choice">
+    
+    <StackLayout Orientation="Vertical">
+        <Label Text="Choix des recettes" 
+               FontSize="Title" HorizontalOptions="CenterAndExpand" 
+               TextColor="Black" FontAttributes="Bold" TextDecorations="Underline"/>
+        
+        <StackLayout Orientation="Horizontal" Padding="30">
+            <Label Text="Nombre : " FontSize="Title"></Label>
+            <Stepper Minimum="0" Maximum="7" Increment="1" 
+                     VerticalOptions="Start" x:Name="stepper" 
+                     ValueChanged="Stepper_ValueChanged"
+                     BackgroundColor="#2196F3"/>
+            <Label Text="0" FontSize="Title" x:Name="value_stepper" HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+        
+        <StackLayout>
+            <Label Text="Listes à utiliser : " FontSize="Title" HorizontalOptions="CenterAndExpand"/>
+            <Frame BackgroundColor="White" Padding="24" CornerRadius="30" BorderColor="Black">
+                <ListView x:Name="list_choice_recipe" IsPullToRefreshEnabled="True" RefreshControlColor="#2196F3" Scrolled="list_choice_recipe_Scrolled" IsVisible="true">
+                    <ListView.Header>
+                        <Button HorizontalOptions="CenterAndExpand" Text="Modifier" Clicked="Button_Clicked"></Button>
+                    </ListView.Header>
+                </ListView>
+            </Frame>
+        </StackLayout>
+        
+    </StackLayout>
+    
+</ContentPage>

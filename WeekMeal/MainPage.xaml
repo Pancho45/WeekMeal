@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeekMeal.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="En manque d'inspiration ?" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" x:Name="label_title"/>
+        </Frame>
+        <Label Text="Soyez le nouveau dictionnaire culinnaire à partir d'aujourd'hui." FontSize="Title" Padding="30,10,30,10" VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
+            <Button Text="Mes recettes" Pressed="button_recipe_Pressed" x:Name="button_recipe_home"
+                FontSize="Body"
+                BackgroundColor="#2196F3" TextColor="White"/>
+            <Button Text="Mes listes" Pressed="button_list_Pressed" x:Name="button_list_home"
+                FontSize="Body"
+                BackgroundColor="#2196F3" TextColor="White"/>
+            <Button Text="Quitter" Pressed="quit_pressed" x:Name="quit"
+                FontSize="Body"
+                BackgroundColor="Red" TextColor="White"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

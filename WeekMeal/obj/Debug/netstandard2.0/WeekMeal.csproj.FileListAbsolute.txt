@@ -1,0 +1,16 @@
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\bin\Debug\netstandard2.0\WeekMeal.deps.json
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\bin\Debug\netstandard2.0\WeekMeal.dll
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\bin\Debug\netstandard2.0\ref\WeekMeal.dll
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\bin\Debug\netstandard2.0\WeekMeal.pdb
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\WeekMeal.csprojAssemblyReference.cache
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\WeekMeal.AssemblyInfoInputs.cache
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\WeekMeal.AssemblyInfo.cs
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\WeekMeal.csproj.CoreCompileInputs.cache
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\WeekMeal.dll
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\ref\WeekMeal.dll
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\WeekMeal.pdb
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\Choice.xaml.g.cs
+C:\Users\yanni\OneDrive\Documents\Visual Studio 2019\Projects\WeekMeal\WeekMeal\obj\Debug\netstandard2.0\List_Modify.xaml.g.cs
